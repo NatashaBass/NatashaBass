@@ -1,10 +1,10 @@
-# Hi, I'm Natasha 👋
+# Hi, I'm Natasha Bass 👋
 
 ### Data Analyst | Python • SQL • PostgreSQL • Yandex DataLens
 
 I am a Data Analyst focused on exploratory data analysis, statistical hypothesis testing, A/B testing and data visualization.
 
-I enjoy turning data into clear conclusions that can support product and business decisions.
+I turn data into clear insights that support product and business decisions.
 
 ## 🛠 Primary Skills
 
