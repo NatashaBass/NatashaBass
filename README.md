@@ -22,7 +22,7 @@ I am particularly interested in product and business analytics and enjoy turning
 - **Statistics:** SciPy, Statsmodels
 - **Visualization:** Matplotlib, Seaborn, Yandex DataLens
 - **Analytics:** EDA, A/B Testing, Hypothesis Testing, Data Preprocessing
-- **Tools:** Jupyter Notebook, Git, GitHub
+- **Tools:** Jupyter Notebook, GitHub
 
 ## 📊 Portfolio
 
