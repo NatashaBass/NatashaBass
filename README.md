@@ -10,7 +10,7 @@ In my previous roles, I worked with revenue, average order value, budgets, KPIs 
 
 Today I work with SQL and Python for data analysis, statistical methods for hypothesis testing, A/B testing and data visualization.
 
-I am interested in product and business analytics and enjoy turning data into clear insights that support decision-making.
+I am particularly interested in product and business analytics and enjoy turning data into clear insights that support decision-making.
 
 **🔎 Open to Data Analyst opportunities.**
 
@@ -55,4 +55,4 @@ Analysis of ticket sales and user behaviour using Python, SQL and Yandex DataLen
 ## 📫 Contacts
 
 - **Telegram:** [@Linden02](https://t.me/Linden02)
-- **Email:** natasha.bass21@gmail.com
+- **Email:** [natasha.bass21@gmail.com](mailto:natasha.bass21@gmail.com)
